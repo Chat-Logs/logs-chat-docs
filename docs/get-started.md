@@ -10,7 +10,7 @@ Official Chat Logs library for interacting with the Chat Logs API
 
 <center>
 
-[<img src="https://logs.chat/img/meta.png" alt="Logo" title="Chat Logs" width="100%" />](https://www.npmjs.com/package/logs.chat)
+[<img src="https://logs.chat/img/meta.png" alt="Logo" title="Chat Logs" width="100%" />](https://logs.chat)
 
 <br/>
 
