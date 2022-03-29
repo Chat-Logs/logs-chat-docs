@@ -13,14 +13,9 @@ export default function HomepageFeatures() {
 				<img src="https://nodei.co/npm/logs.chat.png" />
 			</a>
 			<br />
-			<a href="https://www.npmjs.com/package/logs.chat" target="_blank">
-				<img src="https://img.shields.io/npm/v/logs.chat.svg?maxAge=3600" />
-			</a>
-
+			<img src="https://img.shields.io/npm/v/logs.chat.svg?maxAge=3600" />
 			&nbsp;
-			<a href="https://www.npmjs.com/package/logs.chat" target="_blank">
-				<img src="https://img.shields.io/npm/dt/logs.chat.svg?maxAge=3600" />
-			</a>
+			<img src="https://img.shields.io/npm/dt/logs.chat.svg?maxAge=3600" />
 
 		</center>
 		<br /><br />
