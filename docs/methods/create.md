@@ -13,7 +13,7 @@ Create Method
 - [Returned Data](#returned-data)
 
 ### Parameters
-- messages (Array of messages)
+- messages (Discord Chat Messages Collection)
 ```js
 create(messages)
 ```
