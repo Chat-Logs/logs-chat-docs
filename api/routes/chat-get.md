@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Chat
+# Get Chat
 
-Chat Route
+Get Chat Route
 
-### Table Of Chat Route
+### Table Of Get Chat Route
 
 - [Route](#route)
 - [Method](#method)
@@ -29,7 +29,7 @@ GET
 ### Returned Data
 Returns Chat Object
 - ID (Chat ID)
-- chat (Chat messages array)
+- chat (Chat Messages Array)
 ```js
 {
 	"ID": "1",

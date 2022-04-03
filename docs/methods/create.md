@@ -25,12 +25,12 @@ await chat.create(messages);
 ```
 
 ### Returned Data
-Returns Chat Object
-- URL (chat URL)
-- code (chat code/ID)
+Returns Created Chat Object
+- ID (Chat ID)
+- url (Chat URL)
 ```js
 {
-	"url": "https://logs.chat/chat/1",
-	"code": "1"
+	"ID": "1",
+	"url": "https://logs.chat/chat/1"
 }
 ```

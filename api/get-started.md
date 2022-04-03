@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Getting Started
 
-Official Dev List API
+Official Chat Logs API
 
 <br/>
 
 <center>
 
-[<img src="https://dlist.dev/img/meta.png" alt="Logo" title="Dev List" width="100%" />](https://www.npmjs.com/package/devlist)
+[<img src="https://logs.chat/img/meta.png" alt="Logo" title="Chat Logs" width="100%" />](https://www.npmjs.com/package/logs.chat)
 
 </center>
 
@@ -21,5 +21,6 @@ Official Dev List API
 ### Routes
 
 - [/](/api/routes)
-- [/chat/:ID](/api/routes/chat)
+- [/chat](/api/routes/chat-post)
+- [/chat/:ID](/api/routes/chat-get)
 - [/chat/:ID/exists](/api/routes/chat-exists)
